@@ -1,0 +1,11 @@
+C:\Users\qwert\Source\Repos\IllayBoc\snake\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\qwert\Source\Repos\IllayBoc\snake\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\qwert\Source\Repos\IllayBoc\snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\qwert\Source\Repos\IllayBoc\snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\qwert\Source\Repos\IllayBoc\snake\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\qwert\Source\Repos\IllayBoc\snake\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\qwert\Source\Repos\IllayBoc\snake\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+C:\Users\qwert\Source\Repos\IllayBoc\snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\qwert\Source\Repos\IllayBoc\snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\qwert\Source\Repos\IllayBoc\snake\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\qwert\Source\Repos\IllayBoc\snake\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
