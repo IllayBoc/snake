@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\qwert\\Source\\Repos\\IllayBoc\\snake\\Snake\\Snake.csproj": {}
+    "C:\\Users\\qwert\\source\\repos\\IllayBoc\\snake\\Snake\\Snake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\qwert\\Source\\Repos\\IllayBoc\\snake\\Snake\\Snake.csproj": {
+    "C:\\Users\\qwert\\source\\repos\\IllayBoc\\snake\\Snake\\Snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\qwert\\Source\\Repos\\IllayBoc\\snake\\Snake\\Snake.csproj",
+        "projectUniqueName": "C:\\Users\\qwert\\source\\repos\\IllayBoc\\snake\\Snake\\Snake.csproj",
         "projectName": "Snake",
-        "projectPath": "C:\\Users\\qwert\\Source\\Repos\\IllayBoc\\snake\\Snake\\Snake.csproj",
+        "projectPath": "C:\\Users\\qwert\\source\\repos\\IllayBoc\\snake\\Snake\\Snake.csproj",
         "packagesPath": "C:\\Users\\qwert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\qwert\\Source\\Repos\\IllayBoc\\snake\\Snake\\obj\\",
+        "outputPath": "C:\\Users\\qwert\\source\\repos\\IllayBoc\\snake\\Snake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\qwert\\AppData\\Roaming\\NuGet\\NuGet.Config",
