@@ -14,7 +14,7 @@ namespace Snake
 			Func1( x );
 			Console.WriteLine( "Call Func1. x = " + x );
 
-			x = 1;
+			 x = 1;
 			Func2( x );
 			Console.WriteLine( "Call Func2. x = " + x );
 
@@ -33,25 +33,29 @@ namespace Snake
 			Console.WriteLine( "p1 = p2. p1.x = " + p1.x + ", p1.y = " + p1.y + "; p2.x = " + p2.x + ", p2.y = " + p2.y );
 
 			p1 = new Point( 1, 3, '*' );
-			Update( p1 );
-			Console.WriteLine( "Call Move. p1.x = " + p1.x + ", p1.y = " + p1.y );
+			Reset( p1 );
+			Console.WriteLine( "p1.x = " + p1.x + ", p1.y = " + p1.y );
 
 			Console.ReadLine();
 		}
 
 		public static void Func1( int value )
 		{
-			
+			Console.WriteLine("Call Func1. value = " + value);
 		}
 
 		public static void Func2( int value )
 		{
 			value = value + 1;
+			Console.WriteLine("Call Func2. value = " + value);
+
 		}
 
 		public static void Func3( int x )
 		{
 			x = x + 1;
+			Console.WriteLine("Call Func3. value = " + x);
+
 		}
 
 		public static void Move( Point p, int dx, int dy )
@@ -60,9 +64,11 @@ namespace Snake
 			p.y = p.y + dy;
 		}
 
-		public static void Update( Point p )
+		public static void Reset( Point p )
 		{
 			p = new Point();
+			Console.WriteLine("Call Reset. p.x = " + p.x + ", p.y = " + p.y);
+
 		}
 
 
